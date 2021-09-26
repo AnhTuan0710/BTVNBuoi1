@@ -1,1 +1,4 @@
 thử 1
+#Link bài học 
+*link cú pháp markdown <https://quantrimang.com/cu-phap-markdown-can-ban-163963>
+*link lệnh git và github <https://xuanthulab.net/lenh-git-fetch-git-pull-cap-nhat-du-lieu-tu-remote.html>
